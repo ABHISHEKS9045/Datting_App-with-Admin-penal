@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897914724284",
+    "firebase_url": "https://datingapp-a0190-default-rtdb.firebaseio.com",
+    "project_id": "datingapp-a0190",
+    "storage_bucket": "datingapp-a0190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897914724284:android:bad4ab76f49b07a02215b9",
+        "android_client_info": {
+          "package_name": "com.company.mactosys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897914724284-pb8u1ntas3dm8fl2umvcgffshhslkgkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwq41ylOzuPPSoM-H3YuZl_1Ko4u_t9uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897914724284-lipi80prju7rp92luh7nabn5b5imdh8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
